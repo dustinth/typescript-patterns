@@ -1,0 +1,2 @@
+# typescript-patterns
+TypeScript文档和书不会告诉你的常用Patterns
